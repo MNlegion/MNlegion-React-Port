@@ -10,7 +10,7 @@ function About() {
         <div className="col-10" id="about-section">
             <img class="mb-5" src="" alt="Robert Kreuser"/>
         <p>
-            I'm baby enamel pin subway tile 90's green juice iPhone you probably haven't heard of them skateboard plaid chillwave pickled kickstarter mixtape. Fanny pack four dollar toast celiac vape. Poutine jianbing pour-over, pickled next level yr gentrify helvetica gluten-free occupy tattooed 3 wolf moon schlitz locavore wolf. Food truck vice pok pok forage vinyl master cleanse pug chartreuse asymmetrical. IPhone four dollar toast four loko +1, before they sold out pok pok yr cray post-ironic pitchfork tacos schlitz aesthetic literally.
+            Welcome to my about me page. I'm Robert Kreuser, also known as MNlegion in the GitHub community. I am an aspiring Full-Stack Developer and have dedicated the last 6 months of my life to learning all the necessary skills to help me get started down that path. While I admit that I have a lot of learning still ahead of me, I have accomplished quite a bit to get to this point. I had no prior experience with web development 6 months ago and today you are here on my digital portfolio built using React.
         </p>
         <p>
             Fixie meggings lomo, etsy man bun whatever vice salvia sartorial letterpress. Woke hexagon hoodie coloring book fixie. Messenger bag neutra VHS small batch crucifix taiyaki quinoa hammock mlkshk. Franzen tacos cred edison bulb, tbh four loko whatever cliche butcher forage brooklyn PBR&B messenger bag vexillologist. Blue bottle retro tattooed XOXO keytar lomo.
