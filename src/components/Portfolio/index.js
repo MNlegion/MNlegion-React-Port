@@ -1,7 +1,7 @@
 import React from 'react'; 
 import ProjectCards from '../../components/Project'
-// import portfolio from '../../portfolio.json'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import portfolio from '../../portfolio.json'
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Wrapper(props) {
     return <div className="wrapper">{props.children}</div>;
@@ -17,7 +17,7 @@ function Portfolio () {
           </div>
 
           <Wrapper id="card-data">
-            {Portfolio.map((project) => (
+            {portfolio.map((project) => (
               <ProjectCards key={project.id} image={project.image} name={project.name} github={project.github} deploy={project.deploy} topics={project.topics}/>
             ))}
           </Wrapper>
