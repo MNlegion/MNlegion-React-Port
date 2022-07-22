@@ -38,8 +38,8 @@ import React from "react";
 function Navigation(props) {
   const tabs = ["About", "Portfolio", "Contact", "Resume"];
   return (
-    <div className="tabs is-centered">
-      <ul className="nav nav-tabs">
+    <div className="navPills">
+      <ul className="nav nav-pills justify-content-end">
         {tabs.map((tab) => (
           <li
             className={

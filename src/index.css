@@ -50,9 +50,10 @@ p {
   text-align: center;
 }
 
-/* #header {
+/* header {
   display: flex;
   margin-left: 5px;
+  background-color: var(--outer-space-crayola);
 } */
 
 /* #navigation {
@@ -147,30 +148,39 @@ p {
   margin-right: 10em;
 } */
 
-/* #front-back ul {
-  list-style-type: none;
-} */
+.navPills {
+  font-size: 23px;
+  margin: 10px 50px 40px 0;
+  font-weight: bolder;
+}
 
-/* #front-back ul li {
-  list-style-type: none;
-} */
+/* Resume Component */
 
-/* #front-back h2 {
-  color: var(--davys-grey);
-} */
+#front-back h2 {
+  color: var(--alice-blue);
+  text-align: center;
+  font-size: 40px;
+}
 
-/* #front-back p {
-  background-color: var(--manatee);
-} */
+#front-back p {
+  font-size: 20px;
+}
 
-/* #resume p {
-  background-color: var(--manatee);
-  color: var(--davys-grey);
+#resume {
+  color: var(--alice-blue);
   margin-top: 5px;
-} */
+  font-size: 20px;
+  text-align: center;
+}
+
+#resume img {
+  background-color: white;
+  padding: 5px;
+  border-radius: 10px;
+}
 
 
-/* Footer Styling */
+/* Footer Component */
 
 .footer {
   padding: 5px;

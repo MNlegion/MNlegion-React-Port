@@ -38,7 +38,7 @@ function ContactForm() {
 
 return (
     <section className="justify-content-center" id="contact-section">
-        <h1 data-testid='h1tag' className="contact">What's on your mind?</h1>
+        <h1 data-testid='h1tag' className="name">What's on your mind?</h1>
         <hr></hr>
         <form className="justify-content-center" id="contact-form">
             <div>

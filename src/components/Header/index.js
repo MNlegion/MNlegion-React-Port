@@ -30,14 +30,7 @@ function Header() {
     <div>
       <nav className="navbar">
         <div className="navbar-brand">
-          {/* <a
-            className="navbar-item"
-            rel="noreferrer"
-            target="_blank"
-            href="https://github.com/MNlegion?tab=repositories"
-          >
-            <span className="content is-large">Robert Kreuser</span>
-          </a> */}
+        
         </div>
       </nav>
       {/* Pass the state value and the setter as props to NavTabs */}
