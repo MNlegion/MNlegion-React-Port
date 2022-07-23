@@ -3,7 +3,7 @@ import React from 'react';
 function Resume() {
 
 return(
-<section className="mb-5">
+<section className="title mb-5">
     <h1 className="name">Skills and Qualifications</h1>
         <hr></hr>
         <div className="row justify-content-center" id="resume">
@@ -29,7 +29,7 @@ return(
             <div id="front-back" className="mt-5">
                 <h2>back end experience</h2>
                 <p>
-                Node.js, Express.js, SQL (sqlite, mySQL, postgreSQL), Sequelize, NoSQL (MongoDB, Mongoose), API's (third-party, RESTful, server-side), Templating (Handlebars)
+                Node.js, Express.js, SQL (mySQL), Sequelize, NoSQL (MongoDB, Mongoose), API's (third-party, RESTful, server-side), Templating (Handlebars)
                 </p>
             </div>
         </div>

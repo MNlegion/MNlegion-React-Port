@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
 }
 
 code {
@@ -14,14 +15,14 @@ code {
 
 :root {
   /* from coolers: https://coolors.co/dcedff-94b0da-8f91a2-505a5b-343f3e */
-  --alice-blue:#dcedff;
-  --wild-blue-yonder:#94b0da;
-  --manatee:#8f91a2;
-  --davys-grey:#505a5b;
+  --alice-blue: #dcedff;
+  --wild-blue-yonder: #94b0da;
+  --manatee: #8f91a2;
+  --davys-grey: #505a5b;
   --outer-space-crayola: #343f3e;
 }
 
-*  {
+* {
   background: var(--manatee);
 }
 
@@ -38,7 +39,7 @@ p {
 }
 
 h1 {
-  margin: auto 30px; 
+  margin: auto 30px;
   padding: 10px;
   color: var(--outer-space-crayola);
   font-weight: bold;
@@ -79,14 +80,14 @@ h1 {
   overflow: hidden;
   text-align: center;
   /* border-radius: 10px; */
-  background-color: var(--wild-blue-yonder);
+  background-color: var(--alice-blue);
 }
 
 .card .img-container img {
   width: 100%;
   padding: 25px;
   margin-bottom: 20px;
-  background-color: var(--wild-blue-yonder);
+  background-color: var(--alice-blue);
 }
 
 .card .content {
@@ -100,6 +101,11 @@ h1 {
 #project-icon {
   background-color: var(--wild-blue-yonder);
   padding: 5px;
+}
+
+.title {
+  margin-left: 20em;
+  margin-right: 20em;
 }
 
 #topics {
@@ -124,7 +130,7 @@ h1 {
 }
 
 .navPills {
-  margin: 10px 60px 0px 0px;
+  margin-right: 75px;
 }
 
 .wrapper {
@@ -138,13 +144,9 @@ h1 {
   align-content: flex-start;
 }
 
-#footer {
-  padding: 5px;
-  margin-top: 10px;
-}
-
 .icon {
   padding: 10px;
+  display: inline-block;
 }
 
 #about-section {
@@ -158,7 +160,7 @@ h1 {
 
 #contact-section {
   justify-content: center;
-  margin: 20px;
+  /* margin: 20px; */
   margin-left: 20em;
   margin-right: 20em;
 }
@@ -197,6 +199,14 @@ h1 {
 
 #footer {
   background-color: var(--outer-space-crayola);
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+  /* margin-top: 250px;
+  height: 220px; */
 }
 
 #footer .icon {
