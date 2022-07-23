@@ -60,7 +60,7 @@ return (
             )}
 
             <div>
-            <button data-testid='button' className="btn btn-outline-dark mt-4" type="submit" onSubmit={handleSubmit}>Submit</button>
+            <button data-testid='button' className="btn btn-dark mt-4" type="submit" onSubmit={handleSubmit}>Submit</button>
             </div>
         </form>
     </section>

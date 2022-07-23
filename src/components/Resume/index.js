@@ -4,11 +4,11 @@ function Resume() {
 
 return(
 <section className="mb-5">
-    <h1 className="name">resume: Robert Kreuser</h1>
+    <h1 className="name">Skills and Qualifications</h1>
         <hr></hr>
         <div className="row justify-content-center" id="resume">
             <div className="mt-5 pl-5 pr-5">
-                Business executive and full stack developer with experience the MERN stack. 
+                <p>Business executive and full stack developer with experience the MERN stack.</p>
 
                 <p className="mt-5">
                 <a href="https://www.linkedin.com/in/robert-kreuser-b09bb7133/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Rkreuser LinkedIn"/></a>
