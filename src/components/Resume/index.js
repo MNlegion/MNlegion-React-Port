@@ -14,7 +14,7 @@ return(
                 <a href="https://www.linkedin.com/in/robert-kreuser-b09bb7133/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Rkreuser LinkedIn"/></a>
                 </p>
                 <p>
-                {/* Download my full <a href="NEED TO INSERT IN RESUME LINK FROM ASSETS" className="link">resume</a> */}
+                Download my full <a href="NEED TO INSERT IN RESUME LINK FROM ASSETS" className="link">resume</a>
                 <br></br>
                 </p>
             </div>

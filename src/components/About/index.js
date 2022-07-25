@@ -8,7 +8,7 @@ function About() {
 
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-          <img className="mb-5 justify-content-center" src="" alt="Profile Robert Kreuser" />
+          <img className="mb-5 justify-content-center" src="https://raw.githubusercontent.com/MNlegion/MNlegion-React-Port/develop/src/assets/images/Profile%20Picture.png" alt="Profile Robert Kreuser" id='portimg' />
           <p>
             Welcome to my about me page. I'm Robert Kreuser, also known as MNlegion in the GitHub community. I am an aspiring Full-Stack Developer and have dedicated myself since February of 2022 to learning all the necessary skills to help me get started down that path. While I admit that I have a lot of learning still ahead of me, I have accomplished quite a bit to get to this point. I had no prior experience with web development at the start of 2022 and today you are here on my digital portfolio built using React.
           </p>
