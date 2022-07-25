@@ -8,7 +8,7 @@ return(
         <hr></hr>
         <div className="row justify-content-center" id="resume">
             <div className="mt-5 pl-5 pr-5">
-                <p>Business executive and full stack developer with experience the MERN stack.</p>
+                <p>Business executive and full stack developer with experience with the MERN stack. I received full stack certification from the University of Minnesota in the fall of 2022. I am looking to use my prior experience in business operations to the bridge the gap between front and back end user experience.</p>
 
                 <p className="mt-5">
                 <a href="https://www.linkedin.com/in/robert-kreuser-b09bb7133/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Rkreuser LinkedIn"/></a>
