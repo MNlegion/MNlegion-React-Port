@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Financial Help",
+        "image": "https://raw.githubusercontent.com/MNlegion/Financial-Help/main/public/assets/Screenshot%202022-07-16%20213456.png",
+        "github": "https://github.com/MNlegion/Financial-Help",
+        "deploy": "https://mighty-refuge-61668.herokuapp.com/",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+        "id": 2,
+        "name": "The Social Experiment",
+        "image": "https://raw.githubusercontent.com/MNlegion/The-Social-Experiment/main/src/Screenshot%202022-07-10%20151934.png",
+        "github": "https://github.com/MNlegion/The-Social-Experiment",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+        "id": 3,
+        "name": "Daily Event Scheduler",
+        "image": "https://raw.githubusercontent.com/MNlegion/Daily-Event-Scheduler/main/assets/images/Screenshot%202022-04-09%20172304.png",
+        "github": "https://github.com/MNlegion/Daily-Event-Scheduler",
+        "deploy": "https://mnlegion.github.io/Daily-Event-Scheduler/",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+        "id": 4,
+        "name": "GameStop E-Commerce",
+        "image": "https://raw.githubusercontent.com/MNlegion/GameStop-E-commerce/main/src/Screenshot%202022-06-05%20184216.png",
+        "github": "https://github.com/MNlegion/GameStop-E-commerce",
+        "deploy": "https://drive.google.com/file/d/1uELQasphUFK7G5QEVJ7gCaEJSthR5vwg/view",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+        "id": 5,
+        "name": "Where's My Employee?",
+        "image": "https://raw.githubusercontent.com/MNlegion/Whats-the-weather/main/assets/images/weatherdashboard.png",
+        "github": "https://github.com/MNlegion/Whats-the-weather",
+        "deploy": "https://mnlegion.github.io/Whats-the-weather/",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+        "id": 6,
+        "name": "Where's My Employee?",
+        "image": "https://raw.githubusercontent.com/MNlegion/Wheres-My-Employee/main/src/Screenshot%202022-05-29%20141209.png",
+        "github": "https://github.com/MNlegion/Wheres-My-Employee",
+        "deploy": "https://drive.google.com/file/d/1N_W6vXi3ZjE243yoxDP_JKjyzCDcy6Jf/viewhttps://drive.google.com/file/d/1MzGoz-DMwCTNzoEU0K3O6eGHKrG5CLMD/viewnode-js",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    }
+]
