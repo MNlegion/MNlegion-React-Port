@@ -15,7 +15,7 @@ function About() {
           <p>I started this journey in order to reinvent myself in a field that I had always been passionate about but intimidated to join. My personal goal for 2022 was to learn a new skill that I could apply to real world use and it immediately became clear that it was finally time to take the plunge. Despite the challenges, the time committment, and the hurdles along the way, I haven't regretted a second of it. I immerse myself in content daily, trying to learn as much as possible while applying that to actual application.</p>
           <p>I hope that you find my first React application a decent starting point. I will continue to update and expand upon my experiences and projects along the way while also incorportating more advanced tools as I learn them. Thank you so much for your interest and please feel welcome to provide comments, feedback, and critism via my contact page.</p>
           <p>
-            View full <a href="#/resume" className="link">resume</a>
+            View full <a href="https://drive.google.com/file/d/1nMO2WS2HilQjFtDAM6lo3BInb906QicR/view?usp=sharing" className="link">resume</a>
           </p>
         </div>
       </div>
