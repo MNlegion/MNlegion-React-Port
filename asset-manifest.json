@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MNlegion-React-Port/static/css/main.b47a7749.css",
-    "main.js": "/MNlegion-React-Port/static/js/main.e97c1e6d.js",
+    "main.css": "/MNlegion-React-Port/static/css/main.f1f34da7.css",
+    "main.js": "/MNlegion-React-Port/static/js/main.02469fa7.js",
     "static/js/787.48cc693c.chunk.js": "/MNlegion-React-Port/static/js/787.48cc693c.chunk.js",
     "index.html": "/MNlegion-React-Port/index.html",
-    "main.b47a7749.css.map": "/MNlegion-React-Port/static/css/main.b47a7749.css.map",
-    "main.e97c1e6d.js.map": "/MNlegion-React-Port/static/js/main.e97c1e6d.js.map",
+    "main.f1f34da7.css.map": "/MNlegion-React-Port/static/css/main.f1f34da7.css.map",
+    "main.02469fa7.js.map": "/MNlegion-React-Port/static/js/main.02469fa7.js.map",
     "787.48cc693c.chunk.js.map": "/MNlegion-React-Port/static/js/787.48cc693c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b47a7749.css",
-    "static/js/main.e97c1e6d.js"
+    "static/css/main.f1f34da7.css",
+    "static/js/main.02469fa7.js"
   ]
 }
