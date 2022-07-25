@@ -1,3 +1,55 @@
+<h1 align='center'>Robert Kreuser's React Portfolio</h1>
+
+![license](https://img.shields.io/badge/license-MIT-informational)
+
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+- [Contributers](#contributers)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Getting Started With Create React App](#getting-started-with-create-react-app)
+
+## Description
+Financial Help was designed as a Progressive Web Application (PWA) deployed via `Heroku`. This application utilizes `MongoDB` and `Express.js` for the databases and routing. This app was created as a PWA to provide users offline functionality and uninterrupted service no matter where they might be.  
+
+
+[Link to deployed application via GitHub Pages](https://mnlegion.github.io/MNlegion-React-Port/)
+
+
+![Screenshot of Heroku](./src/assets/images/Screenshot%202022-07-24%20205021.png)
+
+## User Story
+
+## Acceptance Criteria
+
+## Technologies Used
+- `Javascript`
+- `Node.js`
+- `MongoDB`
+- `Mongoose`
+
+## License
+![license](https://img.shields.io/badge/license-MIT-informational)
+  <br />
+Covered under the MIT license.
+
+## Contributers
+Rob Kreuser
+
+## Tests
+There are no tests currently set up.
+
+## Questions
+Please reach out to me at the contact information provided below:
+
+View my GitHub Profile: [MNlegion](https://github.com/MNlegion)
+
+Contact me: rkreuser30@gmail.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
