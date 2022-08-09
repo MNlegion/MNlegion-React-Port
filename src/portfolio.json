@@ -40,6 +40,14 @@
     },
     {
         "id": 6,
+        "name": "A Dish A Day",
+        "image": "https://raw.githubusercontent.com/MNlegion/Wheres-My-Employee/main/src/Screenshot%202022-05-29%20141209.png",
+        "github": "https://github.com/MNlegion/A-Dish-A-Day",
+        "deploy": "https://drive.google.com/file/d/1N_W6vXi3ZjE243yoxDP_JKjyzCDcy6Jf/viewhttps://drive.google.com/file/d/1MzGoz-DMwCTNzoEU0K3O6eGHKrG5CLMD/viewnode-js",
+        "topics": "MERN Stack"
+    },
+    {
+        "id": 7,
         "name": "Where's My Employee?",
         "image": "https://raw.githubusercontent.com/MNlegion/Wheres-My-Employee/main/src/Screenshot%202022-05-29%20141209.png",
         "github": "https://github.com/MNlegion/Wheres-My-Employee",
