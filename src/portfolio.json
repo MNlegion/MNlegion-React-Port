@@ -32,7 +32,7 @@
     },
     {
         "id": 5,
-        "name": "Where's My Employee?",
+        "name": "What's the Weather?",
         "image": "https://raw.githubusercontent.com/MNlegion/Whats-the-weather/main/assets/images/weatherdashboard.png",
         "github": "https://github.com/MNlegion/Whats-the-weather",
         "deploy": "https://mnlegion.github.io/Whats-the-weather/",
