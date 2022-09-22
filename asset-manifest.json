@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MNlegion-React-Port/static/css/main.f1f34da7.css",
-    "main.js": "/MNlegion-React-Port/static/js/main.f25d58c7.js",
+    "main.js": "/MNlegion-React-Port/static/js/main.7d3e3318.js",
     "static/js/787.48cc693c.chunk.js": "/MNlegion-React-Port/static/js/787.48cc693c.chunk.js",
     "index.html": "/MNlegion-React-Port/index.html",
     "main.f1f34da7.css.map": "/MNlegion-React-Port/static/css/main.f1f34da7.css.map",
-    "main.f25d58c7.js.map": "/MNlegion-React-Port/static/js/main.f25d58c7.js.map",
+    "main.7d3e3318.js.map": "/MNlegion-React-Port/static/js/main.7d3e3318.js.map",
     "787.48cc693c.chunk.js.map": "/MNlegion-React-Port/static/js/787.48cc693c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1f34da7.css",
-    "static/js/main.f25d58c7.js"
+    "static/js/main.7d3e3318.js"
   ]
 }
